@@ -28,11 +28,6 @@ The primary objectives of this Music Recommendation System project are as follow
 
 These objectives drive the development and iterative improvement of the music recommendation system. By achieving these goals, the project aims to deliver a robust and enjoyable user experience.
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 Kaggle for providing the Spotify dataset.
